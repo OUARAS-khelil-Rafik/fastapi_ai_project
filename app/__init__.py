@@ -1,0 +1,1 @@
+# Ce fichier indique que "app" peut être utilisé comme package Python.
